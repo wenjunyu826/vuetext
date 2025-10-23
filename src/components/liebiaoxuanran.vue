@@ -2,7 +2,7 @@
     <div class="liebiaoxuanran">
         <h3>列表渲染</h3>
         <div v-for="name in names">{{ name }}</div>
-        <div v-for="(name , index) in names">{{ name }} ------- {{ index }}</div>
+        <div v-for="(name, index) in names">{{ name }} ------- {{ index }}</div>
         <div v-for="value in results">
             <p>{{ value.name }}</p>
             <img :src="value.img":alt="value.title">
