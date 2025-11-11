@@ -13,6 +13,18 @@
     <Shuzubianhuazhence></Shuzubianhuazhence>
     <Jisuanshuxing></Jisuanshuxing>
     <Classbangding></Classbangding>
+    <Stylebangding></Stylebangding>
+    <Watchzhenting></Watchzhenting>
+    <Biaodanshujvbangding></Biaodanshujvbangding>
+    <Mobanyinyong></Mobanyinyong>
+    <Zujianqiantao></Zujianqiantao>
+    <Zujianchuanzhiprops></Zujianchuanzhiprops>
+    <PropsjiaoyanA></PropsjiaoyanA>
+    <Zujianshijian></Zujianshijian>
+    <ZujianshijianVmodel></ZujianshijianVmodel>
+    <Chachaoslots></Chachaoslots>
+    <Shengmingzhouqi></Shengmingzhouqi>
+    <Shengmingzhouqiyingyong></Shengmingzhouqiyingyong>
   </div>
 </template>
 
@@ -29,6 +41,20 @@ import Shijianxiushifu from '../components/shijianxiushifu.vue';
 import Shuzubianhuazhence from '../components/shuzubianhuazhence.vue';
 import Jisuanshuxing from '../components/jisuanshuxing.vue';
 import Classbangding from '../components/classbangding.vue';
+import Stylebangding from '../components/stylebangding.vue';
+import Watchzhenting from '../components/watchzhenting.vue';
+import Biaodanshujvbangding from '../components/biaodanshujvbangding.vue';
+import Mobanyinyong from '../components/mobanyinyong.vue';
+import Zujianqiantao from '../components/zujianqiantao.vue';
+import Zujianchuanzhiprops from '../components/zujianchuanzhiprops.vue';
+import PropsjiaoyanA from '../components/propsjiaoyanA.vue';
+import Zujianshijian from '../components/zujianshijian.vue';
+import ZujianshijianVmodel from '../components/zujianshijianVmodel.vue';
+import Chachaoslots from '../components/chachaoslots.vue';
+import Shengmingzhouqi from '../components/shengmingzhouqi.vue';
+import Shengmingzhouqiyingyong from '../components/shengmingzhouqiyingyong.vue';
+
+
 
 export default {
     name: 'home',
@@ -44,6 +70,18 @@ export default {
         Shuzubianhuazhence,
         Jisuanshuxing,
         Classbangding,
+        Stylebangding,
+        Watchzhenting,
+        Biaodanshujvbangding,
+        Mobanyinyong,
+        Zujianqiantao,
+        Zujianchuanzhiprops,
+        PropsjiaoyanA,
+        Zujianshijian,
+        ZujianshijianVmodel,
+        Chachaoslots,
+        Shengmingzhouqi,
+        Shengmingzhouqiyingyong,
     },
 }
 
