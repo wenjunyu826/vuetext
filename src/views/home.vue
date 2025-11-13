@@ -25,6 +25,9 @@
     <Chachaoslots></Chachaoslots>
     <Shengmingzhouqi></Shengmingzhouqi>
     <Shengmingzhouqiyingyong></Shengmingzhouqiyingyong>
+    <Dongtaizujjian></Dongtaizujjian>
+    <Yibuzujian></Yibuzujian>
+    <Yilaizhuruparent></Yilaizhuruparent>
   </div>
 </template>
 
@@ -53,8 +56,9 @@ import ZujianshijianVmodel from '../components/zujianshijianVmodel.vue';
 import Chachaoslots from '../components/chachaoslots.vue';
 import Shengmingzhouqi from '../components/shengmingzhouqi.vue';
 import Shengmingzhouqiyingyong from '../components/shengmingzhouqiyingyong.vue';
-
-
+import Dongtaizujjian from '../components/dongtaizujjian.vue';
+import Yibuzujian from '../components/yibuzujian.vue';
+import Yilaizhuruparent from '../components/yilaizhuruparent.vue';
 
 export default {
     name: 'home',
@@ -82,6 +86,9 @@ export default {
         Chachaoslots,
         Shengmingzhouqi,
         Shengmingzhouqiyingyong,
+        Dongtaizujjian,
+        Yibuzujian,
+        Yilaizhuruparent
     },
 }
 
